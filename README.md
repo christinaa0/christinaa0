@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center">I am a web development student</h3>
 
-- 🔭 I’m currently working on **a Dating App for my school**
+- 🔭 I’m currently working on ** a back-end with Symfony**
 
 - 🌱 I’m currently learning **Framework , JavaScript , GitHub**
 
