@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center">I am a web development student</h3>
 
-- 🔭 I’m currently working on **a back-end with Symfony**
+- 🔭 I’m currently working on **a bancking app**
 
-- 🌱 I’m currently learning **Framework , JavaScript , GitHub**
+- 🌱 I’m currently learning **Java , POO , SpringBoot**
 
 - ⚡ Fun fact **I am funny and ready for work every day**
 
